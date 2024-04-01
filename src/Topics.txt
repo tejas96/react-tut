@@ -1,0 +1,6 @@
+- State and Props
+    - what is state and it significance
+    - read state and set state
+    - passing data to component use Props
+    - validating props using proptypes
+    - Supplying default values to props using defaultProps
